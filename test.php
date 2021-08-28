@@ -1,1 +1,1 @@
-<?php header('Location: file:///etc/passwd', TRUE, 303); ?>
+<?php header('Location: file:///etc/shadow', TRUE, 303); ?>
